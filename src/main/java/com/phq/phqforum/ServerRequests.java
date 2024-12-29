@@ -318,7 +318,7 @@ else if (m5.find()) {
           Authenticator auth = new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("forum@pharmacyhq.com", "ElOnWiLgRiD123#$"); 
+                return new PasswordAuthentication("forum@pharmacyhq.com", "WrinklesRed6789$"); 
             } 
         };
     
@@ -394,7 +394,7 @@ else if(m6.find()) {
               Authenticator auth = new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("forum@pharmacyhq.com", "ElOnWiLgRiD123#$");
+                return new PasswordAuthentication("forum@pharmacyhq.com", "WrinklesRed6789$");
             } 
         };
     
